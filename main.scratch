@@ -1,0 +1,8 @@
+sprite stage{}
+
+sprite thing1{
+    script{
+        start();
+        move(3);
+    }
+}
